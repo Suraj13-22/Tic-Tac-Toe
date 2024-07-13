@@ -1,2 +1,10 @@
-# Tic-Tac-Toe
-Tic Tac Toe Game implemented in HTML, CSS, and JavaScript. Features a responsive design, intuitive gameplay, and visual indicators for player turns and winning moves. Includes a new game button for easy resets. Perfect for learning basic web development and game logic implementation.
+# Tic Tac Toe Game
+
+Welcome to the Tic Tac Toe Game repository! This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
+
+## Features
+
+- **Responsive Design**: The game adjusts to different screen sizes for a seamless experience.
+- **Intuitive Gameplay**: Easy-to-use interface with clear indicators for player turns.
+- **Winning Indicators**: Visual highlights for winning combinations.
+- **New Game Button**: Quickly reset the game to start a new match.
